@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0D0D0D;
+  --foreground: #FFFFFF;
+}
+
+body {
+  background: #0D0D0D;
+  color: #FFFFFF;
+}
+
+* {
+  box-sizing: border-box;
+}
